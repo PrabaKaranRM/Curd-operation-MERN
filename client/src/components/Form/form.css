@@ -1,0 +1,157 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans:wght@400;700&display=swap');
+
+.button {
+    margin-top: 20px;
+    cursor: pointer;
+}
+.choose{
+    float: right;
+}
+
+.form-cont {
+    position: absolute;
+    width: 412px;
+    height: 549px;
+    left: 1083px;
+    top: 129px;
+    
+    background: #0083B7;
+    box-shadow: 0px 2px 4px 1px rgba(0, 0, 0, 0.25);
+    border-radius: 20px;
+}
+
+.form-h {
+    position: absolute;
+width: 118px;
+height: 29px;
+right: 273px;
+top: 46px;
+
+font-family: 'PT Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 31px;
+
+color: #FFFFFF;
+}
+
+.field{
+    position: absolute;
+width: 354px;
+height: 36px;
+right: 21px;
+top: 100px;
+font-family: 'PT Sans';
+font-style: normal;
+font-weight: 200;
+font-size: 14px;
+line-height: 26px;
+
+background: #FFFFFF;
+box-shadow: 0px 0px 4px 1px rgba(0, 0, 0, 0.25);
+border-radius: 10px;
+}
+
+.field1{
+    position: absolute;
+width: 354px;
+height: 36px;
+right: 21px;
+top: 150px;
+font-family: 'PT Sans';
+font-style: normal;
+font-weight: 200;
+font-size: 14px;
+line-height: 26px;
+
+background: #FFFFFF;
+box-shadow: 0px 0px 4px 1px rgba(0, 0, 0, 0.25);
+border-radius: 10px;
+}
+
+.field2{
+    position: absolute;
+width: 354px;
+height: 36px;
+right: 21px;
+top: 200px;
+font-family: 'PT Sans';
+font-style: normal;
+font-weight: 200;
+font-size: 14px;
+line-height: 26px;
+
+background: #FFFFFF;
+box-shadow: 0px 0px 4px 1px rgba(0, 0, 0, 0.25);
+border-radius: 10px;
+}
+
+.field3{
+    position: absolute;
+width: 354px;
+height: 36px;
+right: 21px;
+top: 250px;
+font-family: 'PT Sans';
+font-style: normal;
+font-weight: 200;
+font-size: 14px;
+line-height: 26px;
+
+background: #FFFFFF;
+box-shadow: 0px 0px 4px 1px rgba(0, 0, 0, 0.25);
+border-radius: 10px;
+}
+
+.choose-b{
+    position: absolute;
+width: 194px;
+height: 46px;
+right: 185px;
+top: 310px;
+font-family: 'PT Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 23px;
+cursor: pointer;
+color: #FFFFFF;
+background: #005678;
+border-radius: 10px;
+border: dashed;
+}
+
+.submit-b{
+    position: absolute;
+width: 144px;
+height: 51px;
+right: 132px;
+top: 392px;
+font-family: 'PT Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 26px;
+cursor: pointer;
+color: #FFFFFF;
+
+background: #212121;
+border-radius: 10px;
+}
+
+.title {
+    position: absolute;
+width: 66px;
+height: 29px;
+right: 784px;
+
+
+font-family: 'PT Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 41px;
+
+color: #000000;
+}

@@ -1,0 +1,27 @@
+
+
+.nav-cont{
+    position: absolute;
+width: 1519px;
+height: 80px;
+left: 0px;
+top: 0px;
+
+background: #0083B7;
+}
+
+.logo{
+    
+position: absolute;
+width: 151px;
+height: 30px;
+left: 75px;
+top: 24px;
+font-family: 'PT Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 41px;
+
+color: #FFFFFF;
+}

@@ -1,0 +1,211 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans:wght@400;700&display=swap');
+
+.post-cont{
+    
+
+}
+
+
+.img{
+    position: absolute;
+width: 650px;
+height: 406px;
+left: 26%;
+padding-top: 130px;
+border: 1px;
+border-radius: 10px;
+}
+
+
+
+.tit-c{
+    position: absolute;
+width: 650px;
+height: 41px;
+left: 404px;
+margin-top: 60px;
+
+
+background: #FFFFFF;
+}
+
+.title-tx{
+    font-family: 'PT Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 30px;
+line-height: 41px;
+cursor: pointer;
+}
+
+.bd-tx{
+    position: absolute;
+width: 125px;
+height: 29px;
+right: 993px;
+margin-top: 100px;
+
+
+font-family: 'PT Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 21px;
+
+color: #000000;
+}
+
+.like-icon{
+    position: absolute;
+width: 30px;
+height: 30px;
+left: 414px;
+margin-top: 485px;
+cursor: pointer;
+
+}
+
+.like-t{
+    position: absolute;
+width: 43px;
+height: 18px;
+left: 453px;
+margin-top: 490px;
+cursor: pointer;
+font-family: 'PT Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 23px;
+
+color: #000000;
+}
+
+.like-count{
+    position: absolute;
+width: 25px;
+height: 18px;
+left: 497px;
+cursor: pointer;
+
+font-family: 'PT Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 23px;
+margin-top: 490px;
+
+color: #000000;
+}
+
+.sm-tx{
+    position: absolute;
+width: 200px;
+height: 29px;
+right: 910px;
+margin-top: 565px;
+
+
+font-family: 'PT Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 34px;
+
+color: #000000;
+}
+
+.cardactions{
+    position: absolute;
+width: 649px;
+height: 22px;
+right: 880px;
+margin-top: 55px;
+cursor: pointer;
+
+font-family: 'PT Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 26px;
+
+color: #000000;
+}
+
+.message{
+    position: absolute;
+width: 649px;
+height: 22px;
+right: 450px;
+margin-top: 595px;
+
+
+font-family: 'PT Sans';
+font-style: normal;
+font-weight: 300;
+font-size: 18px;
+line-height: 26px;
+
+
+color: #000000;
+}
+
+.delete-b{
+    position: absolute;
+    width: 60px;
+    height: 22px;
+    left: 995px;
+    margin-top: 490px;
+    
+    
+    font-family: 'PT Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 23px;
+    text-decoration-line: underline;
+    
+    color: #0083B7;
+}
+
+.hor-b{
+    position: absolute;
+width: 30px;
+height: 30px;
+left: 1025px;
+margin-top:  100px;
+font-size: 20px;
+cursor: pointer;
+
+}
+
+.tag-con{
+    position: absolute;
+
+right: 1135px;
+margin-top: 615px;
+
+text-decoration-line: underline;
+    
+    color: #0083B7;
+background: #005678;
+border-radius: 27px;
+}
+
+.sm-tx2{
+    position: absolute;
+width: 38px;
+height: 18px;
+left: 20px;
+top: 3px;
+
+font-family: 'PT Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 23px;
+
+
+}
+
+
